@@ -1,6 +1,6 @@
 {
   "name": "cache-loader-hash",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "description": "Caches the result of following loaders on disk.",
   "license": "MIT",
   "repository": "fxxjdedd/cache-loader",
